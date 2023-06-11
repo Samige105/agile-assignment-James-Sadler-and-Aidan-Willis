@@ -31,3 +31,4 @@
 
 ## Final Outcome
 This is the website we came up with
+![Website](https://samige105.github.io/agile-assignment-James-Sadler-and-Aidan-Willis/)
