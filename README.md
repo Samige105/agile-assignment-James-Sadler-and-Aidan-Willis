@@ -30,5 +30,5 @@
 ![User Acceptance Testing]()
 
 ## Final Outcome
-This is the website we came up with
-![Website](https://samige105.github.io/agile-assignment-James-Sadler-and-Aidan-Willis/)
+This is the website we came up with: 
+![Website](https://samige105.github.io/agile-assignment-James-Sadler-and-Aidan-Willis/](https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/deployments/activity_log?environment=github-pages))
