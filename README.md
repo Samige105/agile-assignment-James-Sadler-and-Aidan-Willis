@@ -34,4 +34,4 @@
 
 ## Final Outcome
 This is the website we came up with: 
-![Website][(https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/deployments/activity_log?environment=github-pages)]
+![Website](https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/deployments/activity_log?environment=github-pages)
