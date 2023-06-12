@@ -6,16 +6,15 @@
 [Stakeholder Registery](https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/blob/main/Assignment%20Files/Iteration%201/Stakeholder%20register%20assessment.docx)
 
 ## Personas
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-[Persona 1](https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/blob/main/Assignment%20Files/Iteration%201/Persona%201.docx)
+|  Link | Name  |
+|---|---|
+| [Persona 1](https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/blob/main/Assignment%20Files/Iteration%201/Persona%201.docx)  | James Sadler |
+| [Persona 2](https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/blob/main/Assignment%20Files/Iteration%201/Persona%202.docx) | Cei Sadler |
+| [Persona 3](https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/blob/main/Assignment%20Files/Iteration%201/Persona%203.docx)| Aidan Willis |
 
-[Persona 2](https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/blob/main/Assignment%20Files/Iteration%201/Persona%202.docx)
 
-[Persona 3](https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/blob/main/Assignment%20Files/Iteration%201/Persona%203.docx)
+
+
 
 ## Reports
 [Report 1](https://github.com/Samige105/agile-assignment-James-Sadler-and-Aidan-Willis/blob/main/Assignment%20Files/Iteration%201/Group%20Meeting%20report%201.docx)
